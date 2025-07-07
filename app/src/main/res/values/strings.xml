@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="home">HOME</string>
+    <string name="away">AWAY</string>
+    <string name="buy_ticket_on">BUY TICKET ON&#160;</string>
+    <string name="ticketmaster">ticketmaster</string>
+    <string name="previous_month">Previous Month</string>
+    <string name="next_month">Next Month</string>
+</resources>
