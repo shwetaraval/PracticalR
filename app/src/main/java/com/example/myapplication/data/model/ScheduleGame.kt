@@ -10,7 +10,7 @@ data class ScheduleGame(
     val gametime: String,
     val st: Int,
     val stt: String,
-    val buy_ticket_url: String
+    val buy_ticket_url: String?
 ) {
     @Serializable
     data class TeamInfo(
